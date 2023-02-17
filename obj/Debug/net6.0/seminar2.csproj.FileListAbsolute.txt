@@ -1,0 +1,15 @@
+C:\Users\Дом\Desktop\seminar2\bin\Debug\net6.0\seminar2.exe
+C:\Users\Дом\Desktop\seminar2\bin\Debug\net6.0\seminar2.deps.json
+C:\Users\Дом\Desktop\seminar2\bin\Debug\net6.0\seminar2.runtimeconfig.json
+C:\Users\Дом\Desktop\seminar2\bin\Debug\net6.0\seminar2.dll
+C:\Users\Дом\Desktop\seminar2\bin\Debug\net6.0\seminar2.pdb
+C:\Users\Дом\Desktop\seminar2\obj\Debug\net6.0\seminar2.csproj.AssemblyReference.cache
+C:\Users\Дом\Desktop\seminar2\obj\Debug\net6.0\seminar2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дом\Desktop\seminar2\obj\Debug\net6.0\seminar2.AssemblyInfoInputs.cache
+C:\Users\Дом\Desktop\seminar2\obj\Debug\net6.0\seminar2.AssemblyInfo.cs
+C:\Users\Дом\Desktop\seminar2\obj\Debug\net6.0\seminar2.csproj.CoreCompileInputs.cache
+C:\Users\Дом\Desktop\seminar2\obj\Debug\net6.0\seminar2.dll
+C:\Users\Дом\Desktop\seminar2\obj\Debug\net6.0\refint\seminar2.dll
+C:\Users\Дом\Desktop\seminar2\obj\Debug\net6.0\seminar2.pdb
+C:\Users\Дом\Desktop\seminar2\obj\Debug\net6.0\seminar2.genruntimeconfig.cache
+C:\Users\Дом\Desktop\seminar2\obj\Debug\net6.0\ref\seminar2.dll
