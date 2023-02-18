@@ -6,10 +6,10 @@
 
 
 
-//int  number = new Random().Next(100, 1000);
+int  number = new Random().Next(100, 1000);
 
-//int secondValue = (number / 10) % 10;
-//Console.WriteLine("Исходное число: " + number + " вторая цифра: " + secondValue);
+int secondValue = (number / 10) % 10;
+Console.WriteLine("Исходное число: " + number + " вторая цифра: " + secondValue);
 
 //Задача 13: Напишите программу, которая выводит третью цифру заданного семизначного числа или сообщает, что третьей цифры нет.
 
@@ -32,6 +32,19 @@ Console.WriteLine("Исходное число: " + number + " третья ци
 
 //Задача 15: Напишите программу, которая принимает на вход цифру, обозначающую день недели, и проверяет, является ли этот день выходным.
 
+
 //6 -> да
 //7 -> да
 //1 -> нет
+
+Console.WriteLine("Введите номер дня недели: ");
+int number = Convert.ToInt32(Console.ReadLine());
+if (number > 0 && number < 6)
+{
+    Console.WriteLine("Рабочий день: ");
+}
+else 
+{
+    
+    Console.WriteLine("Выходной: ");
+}
