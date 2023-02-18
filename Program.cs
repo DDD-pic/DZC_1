@@ -17,7 +17,7 @@
 
 //3267900 -> 6
 
-int  number = new Random().Next(10, 1000);
+int  number = new Random().Next(10, 10000000);
 if (number > 100 && number < 1000)
 {
     Console.WriteLine("Исходное число: " + number + "Число трехзначное: ");
@@ -26,13 +26,8 @@ else
 {
     Console.WriteLine("Исходное число: " + number +  "Число не трехзначное:");
 }
-
-
-
-
-
-
-
+int secondValue = (number / 10000) % 10;
+Console.WriteLine("Исходное число: " + number + " третья цифра: " + secondValue);
 
 
 //Задача 15: Напишите программу, которая принимает на вход цифру, обозначающую день недели, и проверяет, является ли этот день выходным.
