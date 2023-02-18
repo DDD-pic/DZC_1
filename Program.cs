@@ -6,10 +6,10 @@
 
 
 
-int  number = new Random().Next(100, 1000);
+//int  number = new Random().Next(100, 1000);
 
-int secondValue = (number / 10) % 10;
-Console.WriteLine("Исходное число: " + number + " вторая цифра: " + secondValue);
+//int secondValue = (number / 10) % 10;
+//Console.WriteLine("Исходное число: " + number + " вторая цифра: " + secondValue);
 
 //Задача 13: Напишите программу, которая выводит третью цифру заданного семизначного числа или сообщает, что третьей цифры нет.
 
@@ -17,8 +17,15 @@ Console.WriteLine("Исходное число: " + number + " вторая ци
 
 //3267900 -> 6
 
-
-
+int  number = new Random().Next(10, 1000);
+if (number > 100 && number < 1000)
+{
+    Console.WriteLine("Исходное число: " + number + "Число трехзначное: ");
+}
+else
+{
+    Console.WriteLine("Исходное число: " + number +  "Число не трехзначное:");
+}
 
 
 
